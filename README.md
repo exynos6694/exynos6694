@@ -1,21 +1,10 @@
-## Hi there 👋
-
-<!--
-**exynos6694/exynos6694** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 안녕하세요 👋
 
 <!--타이틀 부분-->
+저는 순천향대학교 컴퓨터소프트웨어공학 25학번 최재성입니다
+
+저는 새로운 기술을 익히는 것을 좋아하는 대학생 개발자 입니다
+일상생활을 최적화하는 프로그램을 다양하게 만드는것을 목표로 하고있습니다
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -63,7 +52,6 @@ Here are some ideas to get you started:
       src="https://img.shields.io/badge/egsi43026@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=exynos6694&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 
 
