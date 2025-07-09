@@ -16,6 +16,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
 
@@ -26,7 +27,7 @@
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="[https://img.shields.io/badge/C-#A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)" />&nbsp
+  
 </div>
 
 <br>
